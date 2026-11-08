@@ -1,0 +1,11 @@
+# Environment and Cache
+venv/
+__pycache__/
+*.pyc
+
+# Datasets and Outputs (Keep these local)
+data/
+outputs/
+*.csv
+*.png
+*.jpg
